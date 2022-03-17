@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecurityToken</string>
+    <string name="title">Pass Code</string>
+    <string name="title2">Time Stamps</string>
+    <string name="token">Token</string>
+    <string name="timeRemaining">Time Remaining</string>
+    <string name="verifyBTN">Verify</string>
+    <string name="passBTN">Pass</string>
+</resources>
